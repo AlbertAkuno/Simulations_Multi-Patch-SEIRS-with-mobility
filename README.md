@@ -1,2 +1,2 @@
 # Simulations_Multi-Patch-SEIRS-with-mobility
-Simulation and plotting codes for a multi-patch SEIRS epidemic model with mobility 
+Simulation and plotting codes for a multi-patch SEIRS epidemic model with mobility. The repository contains codes used in the numerical simulation of the epidemic model in the article "Multi-patch epidemic models with partial mobility, residency, and demography" which can be found on https://doi.org/10.1016/j.chaos.2023.113690, and Chapter 3 of my PhD thesis "Inference on Stochastic and Deterministic Epidemic models with mobility." 
